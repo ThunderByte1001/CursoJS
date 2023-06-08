@@ -1,0 +1,59 @@
+body {
+    background: rgb(121, 148, 199);
+    font: normal 17pt italic;
+}
+
+header {
+    color: white;
+    text-align: center;
+} 
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 10px;/*15px*/
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.356);
+    
+}
+
+footer{
+    color: white;
+    font: normal 20px italic;
+    text-align: center;
+    font-style: italic;
+    padding: 1px;
+}
+input {
+    font-size: italic;    
+    background: rgb(237, 205, 123);
+    border-radius: 5px;
+    width: 80px;/*80px*/
+    height: 24px;
+}   
+p {
+    font: normal 17pt italic;
+}
+div [id="res"]{
+    margin: auto;
+
+}
+input[type="button"] {
+    font: normal 20px italic;
+    width: 100px; /* Aumenta a largura do botão */
+    margin: auto;
+    padding: 0 30px 20px 10px;
+
+    
+  }
+label {
+text-align: center;
+    font: normal 19px italic;
+    
+}
+input[type="radio"] {
+    width: 23px; /* Aumenta a largura do botão */
+    margin: auto;
+    padding: 0 40px 20px 10px;
+}

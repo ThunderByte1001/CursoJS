@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(161, 229, 229);
+    font: normal 15pt italic;
+}
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+} 
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 10px;/*15px*/
+    width: 550px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.356);
+    
+}
+footer{
+    color: rgb(0, 0, 0);
+    font: normal 20px italic;
+    text-align: center;
+    font-style: italic;
+    padding: 1px;
+}
+div [id="res"]{
+    text-align: center;
+    
+
+}
+input[type="button"] {
+    font: normal 20px italic;
+    width: 80px; /* Aumenta a largura do botão */
+    margin: auto;
+    padding: 0 5px 5px 5px;
+
+    
+  }
